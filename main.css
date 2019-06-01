@@ -1,0 +1,79 @@
+body {
+    background-color: #b0e0e6;
+    font-family: 'Averia Sans Libre', cursive;
+    font-size: 15px/30px;
+    color: #ffa500;
+    margin: 0px;
+    padding: 0px;
+    text-transform: uppercase;
+}
+
+.finn {
+    width: 70%;
+    max-width: 845px;
+    margin: 60px auto;
+    text-align: center;
+    background-color: #87cefa;
+    border-radius: 5px;
+}
+
+.ninjabrian{
+    font-family: 'Aubrey', cursive;
+    color: #ffd700;
+    text-transform: none;
+    font-size: 21px;
+}
+
+h4 #clock{
+    font-size: 36px;
+    display: block;
+    padding: 7px 0px;
+}
+
+h1, h2, h3, h6 {
+    font-family: 'Bad Script', cursive;
+}
+
+blockquote {
+    font: 2em/1em 'Aubrey', cursive;
+    -webkit-text-stroke: 1px black;
+    text-shadow: 4px 4px #808080;
+    margin: -70px 0 90px 0;
+    color: #e6e6fa;
+}
+
+blockquote:before {
+    content: '"';
+}
+
+blockquote:after {
+    content: '"'
+}
+
+#adventuretime {
+    margin: 0 auto;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 15px;
+    border: 15px solid #842be2;
+}
+
+#wakeUpTimeSelector, #lunchTimeSelector, #naptimeselector {
+    padding: 10px 0;
+}
+
+#adventureTimeButton {
+    background-color: #f0f8ff;
+    width: 250px;
+    font-family: 'Bigeglow Rules', cursive;
+    color: #daa520;
+    border-radius: 6px;
+    padding: 12px 0;
+    margin-top: 15px;
+}
+
+footer p{
+    text-transform: lowercase;
+    font-size: 12px;
+    font-family: 'Bad Script', cursive;
+}
